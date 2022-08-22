@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=normainobary2021" alt="normainobary2021" /></a> </p>
 
-- 🔭 I’m currently a [Micronaut at Microverse](microverse.org)
+- 🔭 I’m currently a [Micronaut at Microverse](https://microverse.org)
 
 - 🌱 I’m currently learning **Javascript, ReactJS, Ruby, RubyOnRails**
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/normanainobush2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="normanainobush2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/norman-ainobushoborozi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="norman-ainobushoborozi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/norman ainobushoborozi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="norman ainobushoborozi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCPr1miP9UIG-ySSQCqxMWuw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="norman ainobushoborozi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/norman_ainobush1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="norman_ainobush1" height="30" width="40" /></a>
 </p>
 
