@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently a [Micronaut at Microverse](https://microverse.org)
 
+- 🌱 I’m currently available for hire
+
 - 🌱 I’m currently learning **Javascript, ReactJS, Ruby, RubyOnRails**
 
 - 👯 I’m looking to collaborate on **any web applications**
