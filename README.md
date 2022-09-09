@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Norman Ainobushoborozi</h1>
+![github2](https://user-images.githubusercontent.com/87012757/189387741-8e959f54-fa92-4906-afce-a126d8d020cf.png)
+
 <h3 align="center">A full-stack web developer and technology enthusiast from Uganda</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=normainobary2021&label=Profile%20views&color=0e75b6&style=flat" alt="normainobary2021" /> </p>
+- 🔭 I’m currently a [Micronaut at Microverse](https://microverse.org) learning Full-stack Web Development.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=normainobary2021" alt="normainobary2021" /></a> </p>
+- 🌱 I’m **available for hire as a web developer**, contact me through my email: **norman.ainobushoborozi@gmail.com**
 
-- 🔭 I’m currently a [Micronaut at Microverse](https://microverse.org)
-
-- 🌱 I’m currently available for hire
-
-- 🌱 I’m currently learning **Javascript, ReactJS, Ruby, RubyOnRails**
+- 🌱 I’m perfecting my skills in **Javascript, ReactJS, Ruby, RubyOnRails**
 
 - 👯 I’m looking to collaborate on **any web applications**
 
@@ -17,7 +14,7 @@
 
 - 📫 How to reach me **norman.ainobushoborozi@gmail.com**
 
-- ⚡ Fun fact **I like to assume I am humorous**
+- ⚡ Fun fact **I like to assume I am humorous :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
