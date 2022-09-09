@@ -8,13 +8,13 @@
 
 - 🌱 I’m perfecting my skills in **Javascript, ReactJS, Ruby, RubyOnRails**
 
-- 👯 I’m looking to collaborate on **any web applications**
+- 👯 I’m also looking to collaborate on **any web applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/normainobary2021](https://github.com/normainobary2021)
 
 - 📫 How to reach me **norman.ainobushoborozi@gmail.com**
 
-- ⚡ Fun fact **I like to assume I am humorous :D**
+- ⚡ Fun fact **I like to assume I am humorous**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
