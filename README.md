@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **norman.ainobushoborozi@gmail.com**
 
-- ⚡ Fun fact **I like to assume I am humorous**
+- ⚡ Fun fact **I like to assume I am humorous.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
