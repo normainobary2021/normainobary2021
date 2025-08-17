@@ -1,4 +1,4 @@
-![github2](https://user-images.githubusercontent.com/87012757/189387741-8e959f54-fa92-4906-afce-a126d8d020cf.png)
+![P1073610](https://github.com/user-attachments/assets/b2c182ff-a89c-4df7-966a-6d49c98a023c)
 
 <h3 align="center">A full-stack web developer and technology enthusiast from Uganda</h3>
 
