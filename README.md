@@ -1,4 +1,4 @@
-![P1073610](https://github.com/user-attachments/assets/b2c182ff-a89c-4df7-966a-6d49c98a023c)
+<img width="1536" height="1024" alt="NormanAI3" src="https://github.com/user-attachments/assets/95f2d7fa-f540-4c58-8b9c-fba1f329fd73" />
 
 <h3 align="center">A full-stack web developer and technology enthusiast from Uganda</h3>
 
